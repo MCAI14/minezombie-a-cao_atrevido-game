@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQOAA4AAAD//0REREREAP//FBFBREQA//8UEUEREQD//xTxTxERAP//FPFPRBEA//9EREREEQD//0REREQRAP//RERERBEA//9EREREEQD//xQRQUQRAP//FBFBEREA//8U8U8REQD//xTxT0REAP//REREREQA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Cao_Atrevido"
+    },
+    "image2": {
+        "data": "hwQNABAAAAAAAAAAAAAAAAAAAAAAAAAAAADgIiICAADq7u4iIgIAAOrj7mVWdXd36uPuVVV2d3fq7uVmVXZ3d+rj7lZVdXd36uPuVWZ1d3fq7u4iIgIAAAAA4CIiAgAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "ZZZOMBIE"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
