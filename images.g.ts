@@ -52,7 +52,8 @@ f f f f f f f f f f f f f f
 
     helpers._registerFactory("song", function(name: string) {
         switch(helpers.stringTrim(name)) {
-
+            case "song1":
+            case "Aria-Math":return hex`0096000408020105001c000f0a006400f4010a0000040000000000000000000000000000000002300000000400011908000c00011d10001400012218001c00011d20002400011924002800011e2c003000011d340038000119`;
         }
         return null;
     })
